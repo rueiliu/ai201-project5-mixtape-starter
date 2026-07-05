@@ -1,4 +1,4 @@
-# Project 5 — Mixtape Bug Hunt (Submission)
+# Project 5 — Mixtape Bug Hunt 
 
 **Author:** Sunny Liu
 **Branch:** `bugfix/mixtape`
