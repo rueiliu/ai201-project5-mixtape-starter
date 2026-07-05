@@ -6,6 +6,10 @@
 
 ---
 
+![git log --oneline on bugfix/mixtape](https://i.imgur.com/HqWw21m.png)
+
+---
+
 ## AI Usage
 
 I used AI coding tools (Codex and Claude Code) throughout this project, mostly for
@@ -230,5 +234,3 @@ Full suite: `pytest tests/` → **16 passed**.
 dddc23d fix: correct Sunday streak boundary            # Issue #1
 ```
 
-One commit per fix, each with a conventional `fix:` message.
-*(Attach a screenshot of `git log --oneline` here for the portal submission.)*
